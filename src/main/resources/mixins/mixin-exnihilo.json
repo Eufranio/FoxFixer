@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package":"com.magitechserver.foxfixer.mixins",
+  "mixins":[
+    "MixinRenderBarrel"
+  ],
+  "server": [],
+  "client": [],
+  "compatibilityLevel": "JAVA_8",
+  "refmap":"mixin.foxfixer.refmap.json"
+}
